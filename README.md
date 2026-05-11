@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b3a63cc3-7ae2-4249-b10f-030e54ce6dca" /># Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM
